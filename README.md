@@ -1,0 +1,10 @@
+If you know turkish, you can read rapor file, Which is my project report.
+All circuit system:
+![alt text](https://github.com/btknzn/DTMF---Decoder/blob/master/2.PNG)
+Gain Stage:
+![alt text](https://github.com/btknzn/DTMF---Decoder/blob/master/2.PNG)
+https://github.com/btknzn/20Hz-1MHZ-5-stage-500-gain-Amplifier-Analog-Circuit-Design./blob/master/CuttofFrequency.PNG
+Cutt Off Frequency:
+![alt text](https://github.com/btknzn/20Hz-1MHZ-5-stage-500-gain-Amplifier-Analog-Circuit-Design./blob/master/CuttofFrequency.PNG)
+
+You can download .ms file and can see all my circuit in Multisim
