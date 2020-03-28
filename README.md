@@ -8,6 +8,7 @@ All circuit system:
 ![alt text](https://github.com/btknzn/20Hz-1MHZ-5-stage-500-gain-Amplifier-Analog-Circuit-Design./blob/master/B%C3%BCt%C3%BCn%20Devre.PNG)
 
 Gain Stage:
+Chanel A is input and Chanel B is output
 
 ![alt text](https://github.com/btknzn/20Hz-1MHZ-5-stage-500-gain-Amplifier-Analog-Circuit-Design./blob/master/Gain.PNG)
 
