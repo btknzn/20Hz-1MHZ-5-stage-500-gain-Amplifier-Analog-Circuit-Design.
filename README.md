@@ -1,7 +1,7 @@
 If you know turkish, you can read rapor file, Which is my project report.
 Report:
 
-https://github.com/btknzn/20Hz-1MHZ-5-stage-500-gain-Amplifier-Analog-Circuit-Design./blob/master/denklemli%20bu.pdf
+https://github.com/btknzn/20Hz-1MHZ-5-stage-500-gain-Amplifier-Analog-Circuit-Design./blob/master/Rapor2.pdf
 
 All circuit system: EF_TRY is common emitter
 
